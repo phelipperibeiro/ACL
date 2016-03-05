@@ -1,0 +1,16 @@
+{
+    "name": "felipe/acl",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Felipe Ribeiro",
+            "email": "phelipperibeiro@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+	    "psr-4": {
+		"Acl\\": "src/"		
+		}
+	}	
+}
